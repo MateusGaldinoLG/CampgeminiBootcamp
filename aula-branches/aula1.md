@@ -13,12 +13,3 @@ Para juntar duas branchs, é usado o comando *merge*:
 ```bash
     git merge branch-nova
 ```
-
-Para mudar o nome de uma branch, é utilizado o comando:
-
-```bash
-    # se dentro da branch
-    git branch -m novo-nome
-    # se a mudança for de uma branch para a outra
-    git branch -m nome-branch novo-nome
-```

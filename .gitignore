@@ -1,0 +1,10 @@
+# Arquivos de bootstrap
+Bootstrap/arquivos/bootstrap/css
+Bootstrap/arquivos/bootstrap/js
+
+#Modulos node
+node_modules
+
+#Para aula typescript
+.cache
+dist
